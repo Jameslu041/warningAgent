@@ -1,0 +1,15 @@
+dingding:
+  api_url: https://oapi.dingtalk.com/robot/send?access_token=2ab4651b04be3cedab147c3398d705e013687846ce29251e32df02d65526a44c
+  at_phone_err:
+    - 17606867041
+  at_phone_mess:
+  ip: aaa.com
+alarm_index:
+  cpu:
+    busy: 0.10
+  mem:
+    memused: 5.00
+  disk:
+    io_util: 0.50
+  df:
+    statistics_used: 5.00
